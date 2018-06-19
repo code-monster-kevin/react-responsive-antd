@@ -1,0 +1,17 @@
+[
+  {
+    "id": "app.title",
+    "defaultMessage": "React App Base",
+    "filepath": "src/App.js"
+  },
+  {
+    "id": "app.welcome",
+    "defaultMessage": "Welcome to React",
+    "filepath": "src/App.js"
+  },
+  {
+    "id": "app.intro",
+    "defaultMessage": "To get started, edit <code>src/App.js</code> and save to reload.",
+    "filepath": "src/App.js"
+  }
+]

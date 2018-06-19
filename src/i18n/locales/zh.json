@@ -1,0 +1,5 @@
+{
+  "app.intro": "编辑 <code>src/App.js</code> 来开始应用, 之后保存以重新加载",
+  "app.title": "React App 基础框架",
+  "app.welcome": "欢迎来到 React"
+}
