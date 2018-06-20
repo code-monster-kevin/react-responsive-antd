@@ -1,5 +1,6 @@
 {
-  "app.intro": "To get started, edit <code>src/App.js</code> and save to reload.",
+  "app.intro":
+    "To get started, edit <code>src/App.js</code> and save to reload.",
   "app.title": "React App Base",
   "app.welcome": "Welcome to React"
 }
